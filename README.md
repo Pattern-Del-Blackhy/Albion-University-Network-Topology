@@ -99,7 +99,7 @@ Each VLAN is on a separate subnet. Example:
 ---
 
 ## Project Files
-- **Cisco Packet Tracer file:** `"C:\Users\agben\Desktop\Project.pkt"`  
+- **Cisco Packet Tracer file:** `Project.pkt`  
 
 ---
 
