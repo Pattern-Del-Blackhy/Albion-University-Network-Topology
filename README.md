@@ -90,7 +90,6 @@ Each VLAN is on a separate subnet. Example:
 ---
 
 ## Screenshots
-Include relevant screenshots from Packet Tracer:
 
 - Topology diagram (`/Screenshots/topology.png`)  
 - VLAN configuration (`/Screenshots/vlan.png`)  
@@ -100,13 +99,11 @@ Include relevant screenshots from Packet Tracer:
 ---
 
 ## Project Files
-- **Cisco Packet Tracer file:** `/PacketTracer-Files/Albion_University.pkt`  
-- **Configuration files (optional):** `/Configs/`  
-- **Report (PDF/Word):** `/Reports/Albion_University_Report.pdf`  
+- **Cisco Packet Tracer file:** `"C:\Users\agben\Desktop\Project.pkt"`  
 
 ---
 
 ## Author
 **Collins Agbenyegah**  
-Aspiring Network Engineer | IT Student  
-Email: your-email@example.com
+Aspiring Network Engineer |IT Support | IT Student  
+
